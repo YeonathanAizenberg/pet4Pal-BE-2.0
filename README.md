@@ -10,5 +10,16 @@ How to work with - On the package.json, you have three scripts (Run them in powe
 - dev: To rebuild the files from /src into /dist folder, every time the index.ts is saved
 - build: To build the '.ts' files from /src, into /dist folder
 
- GitHub Repo - https://github.com/YeonathanAizenberg/pet4Pal-BE-2.0.git
- Server Deployed: --- Deploy it and put here the server ---
+
+
+- GitHub Repo - https://github.com/YeonathanAizenberg/pet4Pal-BE-2.0.git
+- Server Deployed: --- Deploy it and put here the server ---
+
+-------------------------------------------------
+# TODO List #
+TODO
+TODO
+TODO
+TODO
+TODO
+TODO
