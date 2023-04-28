@@ -17,21 +17,21 @@ How to work with - On the package.json, you have three scripts (Run them in powe
 
 -------------------------------------------------
 # TODO List #
-TODO Create routes
-TODO Create endpoints in the routes
-TODO Create local DB
-TODO Connect endpoints to local DB (With SQL queries and mock data)
-TODO Moke sure everything is in TypeScript and everything is running properly - First MileStone
-TODO Implement middleware
-TODO Implement external services (cloudinary)
-TODO Moke sure everything is in TypeScript and everything is running properly - Second MileStone
-TODO .envs for prod and local
-TODO Refractor the frontEnd
-TODO Moke sure everything is in TypeScript and everything is running properly - Third MileStone
-TODO Connect refactored front and back application
-TODO Moke sure everything is in TypeScript and everything is running properly - Four MileStone
-TODO Write test JEST
-TODO Code review
-TODO Personal documentation on read me files
-TODO Deployment
-TODO Check deployed application (QA)
+- TODO Create routes
+- TODO Create endpoints in the routes
+- TODO Create local DB
+- TODO Connect endpoints to local DB (With SQL queries and mock data)
+- TODO Moke sure everything is in TypeScript and everything is running properly - First MileStone
+- TODO Implement middleware
+- TODO Implement external services (cloudinary)
+- TODO Moke sure everything is in TypeScript and everything is running properly - Second MileStone
+- TODO .envs for prod and local
+- TODO Refractor the frontEnd
+- TODO Moke sure everything is in TypeScript and everything is running properly - Third MileStone
+- TODO Connect refactored front and back application
+- TODO Moke sure everything is in TypeScript and everything is running properly - Four MileStone
+- TODO Write test JEST
+- TODO Code review
+- TODO Personal documentation on read me files
+- TODO Deployment
+- TODO Check deployed application (QA)
