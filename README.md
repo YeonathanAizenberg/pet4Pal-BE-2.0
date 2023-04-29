@@ -17,10 +17,9 @@ How to work with - On the package.json, you have three scripts (Run them in powe
 
 -------------------------------------------------
 # TODO List #
-- TODO Create routes
-- TODO Create endpoints in the routes
 - TODO Create local DB
 - TODO Connect endpoints to local DB (With SQL queries and mock data)
+- TODO Create DB schemas to know how the data should like for each case, in this point, write the classes and interfaces for TypeScript, for now, keep the mock data
 - TODO Moke sure everything is in TypeScript and everything is running properly - First MileStone
 - TODO Implement middleware
 - TODO Implement external services (cloudinary)
